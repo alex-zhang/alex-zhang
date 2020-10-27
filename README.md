@@ -4,4 +4,4 @@
 
 --------
 
-🔭 I’m currently working on [augejs](https://github.com/augejs)
+🔭 I’m currently working on [augejs](https://github.com/augejs) and looking for 
