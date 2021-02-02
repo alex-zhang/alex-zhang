@@ -1,6 +1,4 @@
-
-
-🔭 I’m currently working on [augejs](https://github.com/augejs) and Looking for contributors!
+🔭 I’m currently working on [augejs](https://github.com/augejs/augejs.github.io) :star2: Star us on GitHub — it helps! :clap: and Looking for contributors!
 
 --------
 
